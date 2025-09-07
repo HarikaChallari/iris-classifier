@@ -1,0 +1,14 @@
+# 🌸 Iris Flower Classifier
+
+My first AI project using Python & Scikit-learn.  
+It predicts the type of Iris flower (Setosa, Versicolor, Virginica) based on petal & sepal sizes.  
+
+## How to run
+- Open in Google Colab
+- Run all cells
+- Try your own inputs!
+
+## Tools used
+- Python
+- Scikit-learn
+- Google Colab
